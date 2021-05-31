@@ -1,0 +1,17 @@
+
+h1
+{
+	color: limegreen; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url(screenshot.png);
+	background-position: center;
+	background-size: cover;
+}
+
+#mycanvas{
+background-color:rgb(26, 214, 120);
+border-width: 10px;
+border-style:solid;
+}
